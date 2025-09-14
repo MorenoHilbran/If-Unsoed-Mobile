@@ -34,4 +34,4 @@ Aplikasi ini menampilkan halaman sederhana dengan gambar, teks sambutan, deskrip
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone 
+   git clone https://github.com/MorenoHilbran/If-Unsoed-Mobile.git
