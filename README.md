@@ -29,6 +29,10 @@ Aplikasi ini menampilkan halaman sederhana dengan gambar, teks sambutan, deskrip
 - `ImageView` → Menampilkan gambar gedung teknik.
 - `TextView (tv_welcome)` → Menampilkan teks sambutan.
 - `TextView (tv_description)` → Menampilkan deskripsi informasi.
+
+# Tugas-2-Pertemuan-3-Prak-Pemob_H1D023038
+
+# Dokumentasi
 - `MaterialButton (btn_to_page2)` → Tombol untuk menuju halaman kedua.
 
 ## 🚀 Cara Menjalankan
