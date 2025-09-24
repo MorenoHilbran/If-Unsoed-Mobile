@@ -31,7 +31,7 @@ Aplikasi ini menampilkan halaman sederhana dengan gambar, teks sambutan, deskrip
 - `TextView (tv_description)` → Menampilkan deskripsi informasi.
 
 # Tugas-2-Pertemuan-3-Prak-Pemob_H1D023038
-![Demo Aplikasi Tugas 2 Pertemuan 3](docs/tugas-2.gif)
+![Demo Aplikasi Tugas 2 Pertemuan 3](/app/src/main/res/drawable/Tugas2Pertemuan3.gif)
 # Dokumentasi
 - `MaterialButton (btn_to_page2)` → Tombol untuk menuju halaman kedua.
 
