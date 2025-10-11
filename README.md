@@ -6,6 +6,14 @@ Shift : H/B
 # Dokumentasi
 <img width="1916" height="1006" alt="image" src="https://github.com/user-attachments/assets/749ee346-f86c-4c49-a8db-adf02a5c97e4" />
 
+# Tugas-2-Pertemuan-3-Prak-Pemob_H1D023038
+![Demo Aplikasi Tugas 2 Pertemuan 3](/app/src/main/res/drawable/Tugas2Pertemuan3.gif)
+
+# Tugas 3 Pertemuan 4
+![](Screen_recording_20250930_165351.gif)
+
+# Tugas 4 Pertemuan 5
+![](Screen_recording_20251007_185254.gif)
 
 # Aplikasi Tugas 1 Pemrograman Mobile
 
@@ -30,8 +38,7 @@ Aplikasi ini menampilkan halaman sederhana dengan gambar, teks sambutan, deskrip
 - `TextView (tv_welcome)` → Menampilkan teks sambutan.
 - `TextView (tv_description)` → Menampilkan deskripsi informasi.
 
-# Tugas-2-Pertemuan-3-Prak-Pemob_H1D023038
-![Demo Aplikasi Tugas 2 Pertemuan 3](/app/src/main/res/drawable/Tugas2Pertemuan3.gif)
+
 # Dokumentasi
 - `MaterialButton (btn_to_page2)` → Tombol untuk menuju halaman kedua.
 
